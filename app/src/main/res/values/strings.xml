@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">calculadora</string>
 
-    <string name="btn_apagar">p</string>
+    <string name="btn_apagar">c</string>
 
     <string name="btn_1">1</string>
     <string name="btn_2">2</string>
